@@ -1,6 +1,6 @@
 <!-- 🌟 Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+Abessamad Benaddi;2nd-year+Developer+Student" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+Abessamad+Benaddi;2nd-year+Developer+Student" alt="Typing Banner" />
 </p>
 
 # 👋 Hi, I'm **Abessamad Benaddi**
@@ -81,7 +81,6 @@
 # 🌙 Dark Animated Design
 
 ![Typing Animation](https://raw.githubusercontent.com/DenverCoder1/minimalistic-typing-svg/main/minimalisticTyping.svg)
-
 
 ---
 
