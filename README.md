@@ -75,12 +75,16 @@
 
 # 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadBenaddi&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadBenaddi&layout=compact&hide_border=true&theme=tokyonight)
+![Abessamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdessamadBenaddi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadBenaddi&layout=compact&theme=tokyonight)
 
-# 🌙 Dark Animated Design
+---
 
-![Typing Animation](https://raw.githubusercontent.com/DenverCoder1/minimalistic-typing-svg/main/minimalisticTyping.svg)
+# 🌙 Dark Animated Typing
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&width=500&lines=Learning+React;Building+Projects;Sharing+Knowledge" alt="Typing Animation" />
+</p>
 
 ---
 
