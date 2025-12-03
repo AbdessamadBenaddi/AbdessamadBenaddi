@@ -11,65 +11,66 @@
 
 ---
 
-## 🚀 What I'm Learning
-- 🌐 **HTML, CSS, JavaScript**  
-- ⚛️ **React (Basics)**  
-- 🗄️ **MongoDB & SQL**  
-- 🖥️ **Programming Fundamentals**
+## 🛠️ Skills & Tools
 
----
-
-## 🛠️ Tools & Technologies
-
-### **Frontend**
-- ✨ HTML  
-- 🎨 CSS  
-- ⚡ JavaScript  
-- ⚛️ React  
-- 🎀 Bootstrap  
-
-### **Backend**
-- 🟩 Node.js *(learning)*  
-- 🐘 PHP *(beginner)*  
-
-### **Database**
-- 🍃 MongoDB  
-- 🗃️ MySQL  
-
-### **Tools**
-- 🐙 Git & GitHub  
-- 🧩 VS Code  
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+  <div style="background:#1e1e2f; padding:15px; border-radius:10px; width:120px; text-align:center; transition:0.3s; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/48/html-5.png"/>
+    <p style="margin:5px 0 0 0; color:white;">HTML</p>
+  </div>
+  <div style="background:#1e1e2f; padding:15px; border-radius:10px; width:120px; text-align:center; transition:0.3s; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/48/css3.png"/>
+    <p style="margin:5px 0 0 0; color:white;">CSS</p>
+  </div>
+  <div style="background:#1e1e2f; padding:15px; border-radius:10px; width:120px; text-align:center; transition:0.3s; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/48/javascript.png"/>
+    <p style="margin:5px 0 0 0; color:white;">JavaScript</p>
+  </div>
+  <div style="background:#1e1e2f; padding:15px; border-radius:10px; width:120px; text-align:center; transition:0.3s; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/48/react-native.png"/>
+    <p style="margin:5px 0 0 0; color:white;">React</p>
+  </div>
+  <div style="background:#1e1e2f; padding:15px; border-radius:10px; width:120px; text-align:center; transition:0.3s; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+    <img src="https://img.icons8.com/color/48/nodejs.png"/>
+    <p style="margin:5px 0 0 0; color:white;">Node.js</p>
+  </div>
+</div>
 
 ---
 
 ## 📂 Projects
 
-### 🚗 Car Project
-💻 Built with **HTML, CSS, JavaScript**
+<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
 
-### ☕ Coffee Project
-🎀 Built with **HTML & Bootstrap**
+  <!-- Car Project -->
+  <div style="background:#1e1e2f; width:250px; border-radius:15px; padding:20px; color:white; box-shadow:0 8px 15px rgba(0,0,0,0.3); transition:0.3s;">
+    <h3>🚗 Car Project</h3>
+    <p>💻 Built with HTML, CSS & JavaScript</p>
+    <a href="#" style="color:#00AEEF; text-decoration:none;">View Project →</a>
+  </div>
 
-### 🧑‍💼 Portfolio Website
-✨ Simple personal portfolio using HTML, CSS, and JS
+  <!-- Coffee Project -->
+  <div style="background:#1e1e2f; width:250px; border-radius:15px; padding:20px; color:white; box-shadow:0 8px 15px rgba(0,0,0,0.3); transition:0.3s;">
+    <h3>☕ Coffee Project</h3>
+    <p>🎀 Built with HTML & Bootstrap</p>
+    <a href="#" style="color:#00AEEF; text-decoration:none;">View Project →</a>
+  </div>
 
-### 👕 Clothes Store
-🛍️ Built with **HTML, CSS, PHP**
+  <!-- Portfolio -->
+  <div style="background:#1e1e2f; width:250px; border-radius:15px; padding:20px; color:white; box-shadow:0 8px 15px rgba(0,0,0,0.3); transition:0.3s;">
+    <h3>🧑‍💼 Portfolio</h3>
+    <p>✨ HTML, CSS & JS personal portfolio</p>
+    <a href="#" style="color:#00AEEF; text-decoration:none;">View Project →</a>
+  </div>
 
-📌 **More projects coming soon…**
+  <!-- Clothes Store -->
+  <div style="background:#1e1e2f; width:250px; border-radius:15px; padding:20px; color:white; box-shadow:0 8px 15px rgba(0,0,0,0.3); transition:0.3s;">
+    <h3>👕 Clothes Store</h3>
+    <p>🛍️ Built with HTML, CSS & PHP</p>
+    <a href="#" style="color:#00AEEF; text-decoration:none;">View Project →</a>
+  </div>
 
----
-
-# ✨ Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+</div>
 
 ---
 
@@ -82,7 +83,7 @@
 
 ---
 
-# 🌙 Dark Animated Typing
+# 🌙 Animated Typing
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&width=600&lines=Learning+React;Building+Projects;Sharing+Knowledge;Always+Improving" alt="Typing Animation" />
@@ -97,5 +98,3 @@
   <a href="https://www.linkedin.com/in/abessamad-benaddi/" target="_blank">💼 LinkedIn</a> • 
   <a href="https://www.instagram.com/" target="_blank">📸 Instagram</a>
 </p>
-
-💬 Always open to learning, advice, and collaboration!
