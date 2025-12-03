@@ -1,6 +1,6 @@
 <!-- 🌟 Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+Abee;2nd-year+Developer+Student" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I'm+Abessamad Benaddi;2nd-year+Developer+Student" alt="Typing Banner" />
 </p>
 
 # 👋 Hi, I'm **Abessamad Benaddi**
@@ -75,18 +75,13 @@
 
 # 🔥 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdessamadBenaddi&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadBenaddi&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamadBenaddi&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadBenaddi&layout=compact&hide_border=true&theme=tokyonight)
 
----
+# 🌙 Dark Animated Design
 
-# 🌙 Dark Animated Design (Optional)
+![Typing Animation](https://raw.githubusercontent.com/DenverCoder1/minimalistic-typing-svg/main/minimalisticTyping.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-typing-svg/main/minimalisticTyping.svg" />
-</p>
 
 ---
 
