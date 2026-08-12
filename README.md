@@ -3,11 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00AEEF&width=700&lines=Welcome+to+My+GitHub+Profile!;I'm+Abessamad+Benaddi;2nd-Year+Developer+Student;Building+Web+Projects" alt="Typing Banner" />
 </p>
 
-# 👋 Hi, I'm **Abessamad Benaddi**
+# 👋 Hi, I'm **Abdessamad Benaddi**
 
-🎓 **2nd-year Developer Student**  
-💻 Passionate about **web development** and **learning new technologies**  
-🌱 Constantly improving my skills through projects and coding challenges  
+💻 **Web Developer | Specialized Technician in Digital Development**
+🚀 Passionate about **web development** and building modern web applications
+🌱 Continuously improving my skills through **practical projects and new technologies**
+🤝 Open to **professional opportunities and collaborations**  
 
 ---
 
