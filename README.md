@@ -1,112 +1,154 @@
-<!-- 🌟 Animated Banner -->
+<!-- ======================= HEADER ======================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00AEEF&width=700&lines=Welcome+to+My+GitHub+Profile!;I'm+Abessamad+Benaddi;2nd-Year+Developer+Student;Building+Web+Projects" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00AEEF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile!;I'm+Abdessamad+Benaddi;Web+Developer+%7C+Full+Stack;Building+Modern+Web+Applications" alt="Typing Banner" />
 </p>
 
-# 👋 Hi, I'm **Abdessamad Benaddi**
-
-💻 **Web Developer | Specialized Technician in Digital Development**
-🚀 Passionate about **web development** and building modern web applications
-🌱 Continuously improving my skills through **practical projects and new technologies**
-🤝 Open to **professional opportunities and collaborations**  
-
----
-
-## 🛠️ Skills
-
-<div align="center" style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; padding:10px 0;">
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/php.png" title="PHP"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
-  <img src="https://img.icons8.com/color/48/visual-studio.png" title="VS Code"/>
-</div>
-
----
-
-## 📂 Projects
-
-<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center;">
-
-<!-- Project Card -->
-<div style="background:#0d1117; width:250px; border-radius:15px; padding:20px; color:white; box-shadow:0 8px 20px rgba(0,0,0,0.5); transition:transform 0.3s ease; text-align:center;">
-  <h3>🚗 Car Project</h3>
-  <p>💻 Built with HTML, CSS & JavaScript</p>
-  <a href="#" style="color:#00AEEF; text-decoration:none;">View Project →</a>
-</div>
-
-<div style="background:#0d1117; width:250px; border-radius:15px; padding:20px; color:white; box-shadow:0 8px 20px rgba(0,0,0,0.5); transition:transform 0.3s ease; text-align:center;">
-  <h3>☕ Coffee Project</h3>
-  <p>🎀 Built with HTML & Bootstrap</p>
-  <a href="#" style="color:#00AEEF; text-decoration:none;">View Project →</a>
-</div>
-
-<div style="background:#0d1117; width:250px; border-radius:15px; padding:20px; color:white; box-shadow:0 8px 20px rgba(0,0,0,0.5); transition:transform 0.3s ease; text-align:center;">
-  <h3>🧑‍💼 Portfolio</h3>
-  <p>✨ Personal portfolio with HTML, CSS & JS</p>
-  <a href="#" style="color:#00AEEF; text-decoration:none;">View Project →</a>
-</div>
-
-<div style="background:#0d1117; width:250px; border-radius:15px; padding:20px; color:white; box-shadow:0 8px 20px rgba(0,0,0,0.5); transition:transform 0.3s ease; text-align:center;">
-  <h3>👕 Clothes Store</h3>
-  <p>🛍️ Built with HTML, CSS & PHP</p>
-  <a href="#" style="color:#00AEEF; text-decoration:none;">View Project →</a>
-</div>
-
-</div>
-
----
-
----
-
-## 🔥 GitHub Stats
+<h1 align="center">👋 Hi, I'm Abdessamad Benaddi</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdessamadBenaddi&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <strong>Web Developer | Specialized Technician in Digital Development</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdessamadBenaddi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  Passionate about web development, building modern applications and continuously improving my technical skills.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadBenaddi&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <a href="https://github.com/AbdessamadBenaddi">
+    <img src="https://img.shields.io/badge/GitHub-AbdessamadBenaddi-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abessamad-benaddi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdessamad%20Benaddi-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Activity & Highlights
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdessamadBenaddi&theme=react-dark&hide_border=false" alt="GitHub Activity Graph" />
-</p>
-
-- **Total contributions:** See your growth over time!  
-- **Top languages & projects:** Helps recruiters understand your expertise.  
-- **Daily activity graph:** Shows your consistency in coding and projects.  
-
----
-
+- 🎓 Specialized Technician in **Digital Development**
+- 💻 Focused on **Web Development & Full Stack Development**
+- 🚀 Interested in building modern and practical web applications
+- 🌱 Continuously learning and improving through real-world projects
+- 🤝 Open to **professional opportunities and collaborations**
+- 📍 Based in **Marrakech, Morocco**
 
 ---
 
-## 🌙 Animated Typing
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00AEEF&width=600&lines=Learning+React;Building+Projects;Sharing+Knowledge;Always+Improving" alt="Typing Animation" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite" alt="Frontend Skills"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Skills"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Database Skills"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,vscode,composer,npm" alt="Tools"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Featured Projects
+
+### 📝 Quiz Management System
+
+**Laravel • React • MySQL • Tailwind CSS**
+
+A web-based quiz management platform with authentication, role-based dashboards, quiz management, questions, answers, attempts and results.
+
+🔗 [View Repository](https://github.com/AbdessamadBenaddi)
+
+---
+
+### 🏠 IMMORent
+
+**Laravel • React • MySQL**
+
+A web application for managing real estate properties, users and property-related operations.
+
+🔗 [View Repository](https://github.com/AbdessamadBenaddi)
+
+---
+
+### 🚗 Car Rental Website
+
+**HTML • CSS • Bootstrap • JavaScript**
+
+A responsive web application for presenting available vehicles and their main information.
+
+🔗 [View Repository](https://github.com/AbdessamadBenaddi)
+
+---
+
+### 👕 Clothing Store
+
+**PHP • HTML • CSS**
+
+A simple e-commerce website for displaying and organizing clothing products.
+
+🔗 [View Repository](https://github.com/AbdessamadBenaddi)
+
+---
+
+### ☕ Coffee Shop Website
+
+**HTML • CSS • Bootstrap**
+
+A responsive showcase website presenting a coffee shop, its menu and contact information.
+
+🔗 [View Repository](https://github.com/AbdessamadBenaddi)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/AbdessamadBenaddi" target="_blank">🐙 GitHub</a> • 
-  <a href="https://www.linkedin.com/in/abessamad-benaddi/" target="_blank">💼 LinkedIn</a> • 
-  <a href="https://www.instagram.com/" target="_blank">📸 Instagram</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdessamadBenaddi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamadBenaddi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdessamadBenaddi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdessamadBenaddi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+Full Stack Web Development
+├── Frontend Development
+├── Backend Development
+├── REST APIs
+├── Database Design
+├── Authentication & Authorization
+├── Git & GitHub
+└── Deployment & Cloud
